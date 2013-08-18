@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-OCPP::Application.config.secret_key_base = '38ea4f9fa42314794c9dd479d421b9f86908d7059fe8c71d1dc4cbb3d14a649fed4a274cac33d4932024e12c56b98cfd34d73c8e539e968dcb75a6f03b1d9973'
+OCPP::Application.config.secret_key_base = '078cafe45c92e2cfce3cfd09774002680ac32d0ccbe9230202a1f2df4304fdd17bb83f3f22efcd2f0ac64d80aa9ff2487485d92a95c6cdcc7b3c9af7914d1160'
